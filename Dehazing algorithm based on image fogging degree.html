@@ -1,0 +1,43 @@
+<html>
+	<head>
+		<title>Projects</title>
+		<meta charset="utf-8">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<link rel="shortcut icon" href="images/pisces.png">
+		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.3.1/css/bootstrap.min.css">
+	</head>
+	<body>
+		<div class="jumbotron text-center">
+			<h2>Dehazing algorithm based on image fogging degree</h2>
+		</div>
+		<div class="container">
+			<a href="index.html#projects" class="btn btn-outline-secondary" role="button">&#171; Back</a>
+			<br><br>
+			<p>
+				Aiming at performance degradation of generating infrared images caused by haze on visible images, I propose a dehazing algorithm based on image fogging degree. 
+				Considering that the transmission map reflects the fogging degree of hazy images, I build a transmission map prediction module parallel to the dehazing module. 
+				The threshold adaptive learning module is designed to calculate the segmentation threshold. 
+				According to the segmentation threshold, we can get mask maps of different fogging degree, 
+				which can guide the separation defogging convolution module to recover clear images. The details of the network are showed as below.
+				<p align=center>
+				<span class="image fit">
+					<a href="images/dehaze_net_structure.png" target="_blank" title="Click to view the full image">
+											<img src="images/dehaze_net_structure.png" alt="" />
+					</a>
+				</span>
+				</p>
+			</p>
+				Experiments show that our algorithm achieves good defogging effect on both public datasets and natural images.
+			</p>
+			<p align=center>
+			<a href="images/dehaze_res.jpg" target="_blank" title="Click to view the full image">
+										<img src="images/dehaze_res.jpg" alt="" />
+			</a>
+			</p>
+			<p>
+				This is one part of my master's thesis and more details can be found in <a href="https://kns.cnki.net/kcms/detail/detail.aspx?dbcode=CMFD&dbname=CMFD202201&filename=1020352583.nh&uniplatform=NZKPT&v=4H8aJCBV-4siKEEDgvRtz6C61dKIbZKNLpO5L5kC2Ixm8GDhUCU3j4BfCMunFrIU" target="_blank"> here </a> which is written in Chinese.
+			</p>
+			<br><br><br><br><br><br>
+		</div>
+	</body>
+</html>

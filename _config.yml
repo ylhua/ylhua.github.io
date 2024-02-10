@@ -14,7 +14,7 @@ timezone:
 # jekyll-seo-tag settings › https://github.com/jekyll/jekyll-seo-tag/blob/master/docs/usage.md
 # ↓ --------------------------
 
-title: Chirpy # the main title
+title: <a href="/blogs.html">Jingchuan 's Blogs</a> # the main title
 
 tagline: A text-focused Jekyll theme # it will display as the sub-title
 
@@ -23,7 +23,7 @@ description: >- # used by seo meta and the atom feed
 
 # Fill in the protocol & hostname for your site.
 # e.g. 'https://username.github.io', note that it does not end with a '/'.
-url: ""
+url: "https://ylhua.github.io/blog.html"
 
 github:
   username: github_username # change to your github username
@@ -114,6 +114,7 @@ pwa:
   enabled: true # the option for PWA feature
 
 paginate: 10
+paginate_template: /blogs.html
 
 # The base URL of your site
 baseurl: ""

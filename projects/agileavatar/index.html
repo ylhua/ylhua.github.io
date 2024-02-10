@@ -1,0 +1,98 @@
+<html><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<style>
+
+.fileSize{
+	margin-top: 3px;
+	font-size: 14px;
+}
+</style>
+
+</head><body alink="#2281c9" link="#2281c9" text="#404040" vlink="#2281c9"><br>
+<br>
+<br>
+
+<title>AgileAvatar</title>
+
+
+<div style="width:900px; margin: 0 auto; text-align: justify;">
+  <div style="text-align: center;">
+    <h1 style="font-family:Helvetica;font-size:40px;font-weight:600;color:#525252">AgileAvatar</h1>
+	<h2 style="font-family:Helvetica;font-size:30px;font-weight:600;color:#525252">Stylized 3D Avatar Creation via Cascaded Domain Bridging</h2>
+	<h3 style="font-family:Arial;font-size:20px;font-weight:100;color:#848484">SIGGRAPH Asia, 2022</h3>
+    <center>
+
+  <table width="400px">
+    <tbody>
+    <tr align="center">
+    <br>
+    <a target="_blank" href="https://ssangx.github.io/">Shen Sang</a>&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://tiancheng-zhi.github.io">Tiancheng Zhi</a>&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://guoxiansong.github.io/homepage/index.html">Guoxian Song</a>&nbsp;&nbsp;&nbsp; 
+    Minghao Liu&nbsp;&nbsp;&nbsp;
+    Chunpong Lai&nbsp;&nbsp;&nbsp;
+    </br>
+    </br>
+    <a target="_blank" href="https://www.jingliu.net/">Jing Liu</a>&nbsp;&nbsp;&nbsp;
+    Xiang Wen&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="https://users.soe.ucsc.edu/~davis/">James Davis</a>&nbsp;&nbsp;&nbsp;
+    <a target="_blank" href="http://linjieluo.com/">Linjie Luo</a>&nbsp;&nbsp;&nbsp;
+    </br>
+    </br>
+    </tbody>
+  </table>
+    </div>
+
+</br>
+</br>
+
+<div style="width:900px; margin: 0 auto; text-align: center;">
+    <img src="./resources/teaser.gif" width="900" border="0">
+    </br></br>
+</div>
+Figure 1: (a) Given a front-facing user image as input, (b) our method progressively bridges the domain gap between real faces and 3D avatars through three stages: (b.1) The stylization stage performs an image space translation to generate a stylized portrait while normalizing expressions. (b.2) The parameterization stage uses a learned model to find avatar parameters which match the results of stylization. (b.3) The conversion stage searches for a valid avatar vector matching the parameterization that can be rendered by the graphics engine. (c) The output is a user editable 3D model which can be animated and applied to various applications, for example personalized emoji.
+</br></br>
+
+  <h2 style="font-family:Arial;font-weight:200;color:#525252">Abstract</h2> 
+  Stylized 3D avatars have become increasingly prominent in our modern life. Creating these avatars manually usually involves laborious selection and adjustment of continuous and discrete parameters and is time-consuming for average users. Self-supervised approaches to automatically create 3D avatars from user selfies promise high quality with little annotation cost but fall short in application to stylized avatars due to a large style domain gap. We propose a novel self-supervised learning framework to create high-quality stylized 3D avatars with a mix of continuous and discrete parameters. Our cascaded domain bridging framework first leverages a modified portrait stylization approach to translate input selfies into stylized avatar renderings as the targets for desired 3D avatars. Next, we find the best parameters of the avatars to match the stylized avatar renderings through a differentiable imitator we train to mimic the avatar graphics engine. To ensure we can effectively optimize the discrete parameters, we adopt a cascaded relaxation-and-search pipeline. We use a human preference study to evaluate how well our method preserves user identity compared to previous work as well as manual creation. Our results achieve much higher preference scores than previous work and close to those of manual creation. We also provide an ablation study to justify the design choices in our pipeline.
+  <br>
+
+  <div style="width:900px; margin: 0 auto; text-align: center;">
+    <td width="900">
+        <video width="900" controls="">
+            <source src="./resources/agileavatar-video.mp4" type="video/mp4">
+        </video>
+    </td>
+  </div>
+  <br></br>
+
+  <h2 style="font-family:Arial;font-weight:200;color:#525252">Download</h2>
+  <a target="_blank" href="https://ssangx.github.io/pubs/2022-SIGGRAPHAsia-AgileAvatar.pdf">[paper]</a>&nbsp;
+    <a target="_blank" href="https://arxiv.org/abs/2211.07818">[arXiv]</a>
+    <a target="_blank" href="https://ssangx.github.io/pubs/2022-SIGGRAPHAsia-AgileAvatar-Supplementary.pdf">[supp]</a>&nbsp;
+    <a target="_blank" href="./resources/agileavatar-video">[video]</a>&nbsp;
+    <br></br>
+
+<h2 style="font-family:Arial;font-weight:200;color:#525252">Citation</h2>
+<pre style="white-space: pre-wrap;"">
+@inproceedings{Sang2022AgileAvatar,
+    title = {AgileAvatar: Stylized 3D Avatar Creation via Cascaded Domain Bridging},
+    author = {Sang, Shen and Zhi, Tiancheng and Song, Guoxian and Liu, Minghao and Lai, Chunpong and Liu, Jing and Wen, Xiang and Davis, James and Luo Linjie},
+    booktitle = {ACM SIGGRAPH Asia 2022 Conference Proceedings},
+    numpages = {8},
+    year = {2022},
+    publisher = {Association for Computing Machinery},
+    address = {New York, NY, USA},
+    location = {Daegu, Republic of Korea},
+    series = {SIGGRAPH Asia '22},
+    url = {https://doi.org/10.1145/3550469.3555402},
+    doi = {10.1145/3550469.3555402}
+}
+</pre>
+
+
+</div>
+
+</body>
+</html>
+

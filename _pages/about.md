@@ -45,8 +45,8 @@ Master Student. Aug. 2018 - Jun. 2020 <br>
 </td>
 <td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
 Bachelor Student. Aug. 2014 - Jun. 2018 <br>
-<a href="http://ea.hfut.edu.cn/dqzdhen/">Department of Automation</a>, Major in Automation<br>
-<a href="https://en.hfut.edu.cn/">Hefei University of Technology</a><br>
+<a href="http://ea.hfut.edu.cn/dqzdhen/" target="_blank">Department of Automation</a>, Major in Automation<br>
+<a href="https://en.hfut.edu.cn/" target="_blank">Hefei University of Technology</a><br>
 </td>
 </tr>
 </table>    
@@ -64,33 +64,88 @@ Bachelor Student. Aug. 2014 - Jun. 2018 <br>
 <b>Infrared image generation by pix2pix based on multi-receptive field feature fusion</b><br>
 Yangyang Ma, <b>Yanling Hua</b>, Zhengrong Zuo<br>
 <i>International Conference on Control, Automation and Information Sciences (<b>ICCAIS</b>), 2021</i><br>
-<a href="../files/ICCAIS_Infrared Image Generation.pdf"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
-<a href="https://github.com/huayanling/Pix2pix-MRFFF"><i class="fab fa-fw fa-github fa-github"></i>Code</a>
+<a href="../files/ICCAIS_Infrared Image Generation.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
+<a href="https://github.com/huayanling/Pix2pix-MRFFF" target="_blank"><i class="fab fa-fw fa-github fa-github"></i>Code</a>
 </td>
 </tr>
 </table>
-
----
-
-<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
-<tr>
-<td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
-<img width="350" src="../images/rgb2infr.png"/>
-</td>
-<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
-<b>Infrared image period extension algorithm based on StarGAN</b><br>
-This project and the work mentioned in the second published paper above are parts of my master's thesis aiming for infra image generation. The published papar generate infra images based on rgb images, but this project achieves infra image generation between images from different peroid in a day.<br>
-<a href="../huahua/Infrared image period extension algorithm based on StarGAN.html"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
-</td>
-</tr>
-</table>
-
 </div>
 
 ---
 
+<div>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
+<tr>
+<td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
+<img width="350" src="../images/infra_peroid_res.png"/>
+</td>
+<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
+<b>Infrared image period extension algorithm based on StarGAN</b><br>
+This project and the work mentioned in the second published paper above are parts of my master's thesis aiming for infra image generation. The published papar generate infra images based on rgb images, but this project achieves infra image generation between images from different peroid in a day.<br>
+<a href="../huahua/Infrared image period extension algorithm based on StarGAN.html" target="_blank"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<div>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
+<tr>
+<td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
+<img width="350" src="../images/dehaze_net.png"/>
+</td>
+<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
+<b>Dehazing algorithm based on image fogging degree</b><br>
+<b>Yanling Hua</b>, Zhengrong Zuo<br>
+<i>International Conference on Control, Automation and Information Sciences (<b>ICCAIS</b>), 2021</i><br>
+<a href="../huahua/Dehazing algorithm based on image fogging degree.html" target="_blank"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
+<a href="../files/MIPPR_Dehazing Network based on Haze Density.pdf" target="_blank" ><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
+</td>
+</tr>
+</table>
+</div>
 
 
+
+## Working Experience
+
+<div>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
+<tr>
+<td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
+<img width="350" src="../images/nerf.png"/>
+</td>
+<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
+<b>Semantic Nerf in unbounded scene for autonomous driving</b><br>
+This project is for semantic auto-labeling task in autonomous driving scene and I do this project independently. I use nerf, which has show significant performance in novel view sythesis, to achieve muti-view generation and get the semantic label. <br>
+<a href="../huahua/Semantic Nerf in unbounded scene for autonomous driving scene.html" target="_blank"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
+</td>
+</tr>
+</table>
+</div>
+
+---
+<div>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
+<tr>
+<td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
+<video width="200" height="200" autoplay loop>
+    <source src="../images/bunny-rgb.mp4" type="video/mp4">
+    Your browser does not support the video tag.
+</video>
+</td>
+<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
+<b>3D genration for Game Asset</b><br>
+This project is about research of constructing 3D models of game assets. <br>
+<a href="../huahua/3D generation.html" target="_blank"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
+</td>
+</tr>
+</table>
+</div>
+
+---
 
 
 ## Contact

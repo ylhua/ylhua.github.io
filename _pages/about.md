@@ -99,7 +99,7 @@ This project and the work mentioned in the second published paper above are part
 <td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
 <b>Dehazing algorithm based on image fogging degree</b><br>
 <b>Yanling Hua</b>, Zhengrong Zuo<br>
-<i>International Conference on Control, Automation and Information Sciences (<b>ICCAIS</b>), 2021</i><br>
+<i>MIPPR 2019: Pattern Recognition and Computer Vision. SPIE, 2020</i><br>
 <a href="../huahua/Dehazing algorithm based on image fogging degree.html" target="_blank"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
 <a href="../files/MIPPR_Dehazing Network based on Haze Density.pdf" target="_blank" ><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
 </td>
@@ -148,5 +148,8 @@ This project is about research of constructing 3D models of game assets. <br>
 ---
 
 
+
 ## Contact
 E-mail: ya4736hu-s[AT]student.lu.se
+
+<a href="https://info.flagcounter.com/dTp3"><img src="https://s11.flagcounter.com/map/dTp3/size_s/txt_000000/border_CCCCCC/pageviews_0/viewers_0/flags_0/" alt="Flag Counter" border="0"></a>

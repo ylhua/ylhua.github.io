@@ -7,7 +7,10 @@ main:
     url: "https://ylhua.github.io/#research"
 
   - title: "Working Experience"
-    url: "https://ylhua.github.io/#Working%Experience"
+    url: "https://ylhua.github.io/#working-experience"
 
   - title: "Contact"
     url: "https://ylhua.github.io/#contact"
+  
+  - title: "Blog Posts"
+    url: /year-archive/

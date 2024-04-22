@@ -131,10 +131,11 @@ This project is for semantic auto-labeling task in autonomous driving scene and 
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
 <td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
-<video width="200" height="200" autoplay loop>
+<img width="350" src="../images/bunny-rgb.gif"/>
+<!-- <video width="350" height="200" loop>
     <source src="../images/bunny-rgb.mp4" type="video/mp4">
     Your browser does not support the video tag.
-</video>
+</video> -->
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
 <b>3D genration for Game Asset</b><br>
@@ -145,8 +146,9 @@ This project is about research of constructing 3D models of game assets. <br>
 </table>
 </div>
 
----
 
+<!-- ## Personal
+I spend my spare time in reading, watching movies and traveling. Recently I am reading some books related to -->
 
 
 ## Contact

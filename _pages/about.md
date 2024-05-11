@@ -149,6 +149,8 @@ This project is about research of constructing 3D models of game assets. <br>
 
 <!-- ## Personal
 I spend my spare time in reading, watching movies and traveling. Recently I am reading some books related to -->
+## Personal
+Keep on exploring ! Keep on trying !
 
 
 ## Contact

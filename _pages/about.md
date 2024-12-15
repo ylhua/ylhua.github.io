@@ -10,7 +10,11 @@ redirect_from:
 
 Hi, this is Yanling Hua. I am a first year (2023~) Master student in Faculty of Engineering, Lund University. My major is virtual reality and augmented reality (VR/AR).
 
-I am interested on **how AI can comprehend, recreate and interact with the real world**, which includes physical scene understanding through inverse rendering, 3D environment and human reconstruction and human-centered generation.
+I am interested on **extended reality (XR) and generative AI**, focusing on the creation of accessible, enriched, 
+and personalized experiences. I am particularly drawn to AI-assisted content creation,
+specializing in developing controllable and efficient generative AI methods for 3D objects, scene, and human
+motion generation. Additionally, I am passionate about exploring multimodal interaction
+design in XR, aiming to simplify and enhance user interactions, making them more intuitive and seamless.
 
 ## Background
 
@@ -115,6 +119,22 @@ This project and the work mentioned in the second published paper above are part
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
 <td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
+<img width="350" src="../images/co_speech_pose.png"/>
+</td>
+<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
+<b>Talking pose generation</b><br>
+This project is about talking-pose generation and I do this project independently. I tried two ways, motion retrival and end2end motion generation. <br>
+<a href="../huahua/End2end motion generation.html" target="_blank"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
+</td>
+</tr>
+</table>
+</div>
+
+---
+<div>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
+<tr>
+<td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
 <img width="350" src="../images/nerf.png"/>
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
@@ -145,6 +165,44 @@ This project is about research of constructing 3D models of game assets. <br>
 </tr>
 </table>
 </div>
+
+## Projects
+
+<div>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
+<tr>
+<td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
+<img width="350" src="../images/fire.png"/>
+</td>
+<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
+<b>Excape the fire</b><br>
+This project is about a VR program to help people get more information and know how to act in a fire emergency. <br>
+<a href="https://docs.google.com/presentation/d/1bM-EGJqBSkee5mxCemCGwa58hlPwJjeJ/edit#slide=id.p10" target="_blank"><i class="fas fa-fw fa-globe"></i>Presentation and Demo</a> /
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<div>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
+<tr>
+<td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
+<img width="350" src="../images/dancing.png"/>
+</td>
+<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
+<b>HeyDancing</b><br>
+This project is about a VR/AR application to help users enhance their dance skills in an interactive environment. The system plans to consist of four core modules:motion capture using a fixed multi-camera setup, motion remapping to project captured movements onto 3D
+characters, real-time motion correction, and a motion evaluation model that generates an overall performance
+score.. <br>
+<a href="https://drive.google.com/file/d/1YMf4gyK_MIt_j0tTBiGfKnUP5xbN0_VN/view" target="_blank"><i class="fas fa-fw fa-globe"></i>Demo</a> /
+</td>
+</tr>
+</table>
+</div>
+
+---
 
 
 <!-- ## Personal

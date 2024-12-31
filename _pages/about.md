@@ -196,7 +196,7 @@ This project is about a VR program to help people get more information and know 
 This project is about a VR/AR application to help users enhance their dance skills in an interactive environment. The system plans to consist of four core modules:motion capture using a fixed multi-camera setup, motion remapping to project captured movements onto 3D
 characters, real-time motion correction, and a motion evaluation model that generates an overall performance
 score.. <br>
-<a href="https://drive.google.com/file/d/1YMf4gyK_MIt_j0tTBiGfKnUP5xbN0_VN/view" target="_blank"><i class="fas fa-fw fa-globe"></i>Demo</a> /
+<a href="https://www.youtube.com/watch?v=pMr3i27rvCM" target="_blank"><i class="fas fa-fw fa-globe"></i>Demo</a> /
 </td>
 </tr>
 </table>

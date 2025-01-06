@@ -8,11 +8,11 @@ redirect_from:
   - /about.html
 ---
 
-Hi, this is Yanling Hua. I am a first year (2023~) Master student in Faculty of Engineering, Lund University. My major is virtual reality and augmented reality (VR/AR).
+Hi, this is Yanling Hua. I am a second-year (2023~2025) Master's student in the Faculty of Engineering at Lund University. My major is virtual reality and augmented reality (VR/AR).
 
-I am interested on **extended reality (XR) and generative AI**, focusing on the creation of accessible, enriched, 
+I am interested in **extended reality (XR) and generative AI**, focusing on the creation of accessible, enriched, 
 and personalized experiences. I am particularly drawn to AI-assisted content creation,
-specializing in developing controllable and efficient generative AI methods for 3D objects, scene, and human
+specializing in developing controllable and efficient generative AI methods for 3D objects, scenes, and human
 motion generation. Additionally, I am passionate about exploring multimodal interaction
 design in XR, aiming to simplify and enhance user interactions, making them more intuitive and seamless.
 
@@ -139,7 +139,7 @@ This project is about talking-pose generation and I do this project independentl
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
 <b>Semantic Nerf in unbounded scene for autonomous driving</b><br>
-This project is for semantic auto-labeling task in autonomous driving scene and I do this project independently. I use nerf, which has show significant performance in novel view sythesis, to achieve muti-view generation and get the semantic label. <br>
+This project is for the semantic auto-labeling task in the autonomous driving scene and I do this project independently. I use nerf, which has show significant performance in novel view synthesis, to achieve muti-view generation and get the semantic label. <br>
 <a href="../huahua/Semantic Nerf in unbounded scene for autonomous driving scene.html" target="_blank"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
 </td>
 </tr>
@@ -193,7 +193,7 @@ This project is about a VR program to help people get more information and know 
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
 <b>HeyDancing</b><br>
-This project is about a VR/AR application to help users enhance their dance skills in an interactive environment. The system plans to consist of four core modules:motion capture using a fixed multi-camera setup, motion remapping to project captured movements onto 3D
+This project is about a VR/AR application to help users enhance their dance skills in an interactive environment. The system plans to consist of four core modules: motion capture using a fixed multi-camera setup, motion remapping to project captured movements onto 3D
 characters, real-time motion correction, and a motion evaluation model that generates an overall performance
 score.. <br>
 <a href="https://www.youtube.com/watch?v=pMr3i27rvCM" target="_blank"><i class="fas fa-fw fa-globe"></i>Demo</a> /
@@ -208,7 +208,7 @@ score.. <br>
 <!-- ## Personal
 I spend my spare time in reading, watching movies and traveling. Recently I am reading some books related to -->
 ## Personal
-Keep on exploring ! Keep on trying !
+Keep on exploring! Keep on trying!
 
 
 ## Contact

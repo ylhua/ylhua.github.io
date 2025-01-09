@@ -86,7 +86,7 @@ Yangyang Ma, <b>Yanling Hua</b>, Zhengrong Zuo<br>
 <td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
 <b>Infrared image period extension algorithm based on StarGAN</b><br>
 This project and the work mentioned in the second published paper above are parts of my master's thesis aiming for infra image generation. The published papar generate infra images based on rgb images, but this project achieves infra image generation between images from different peroid in a day.<br>
-<a href="../huahua/Infrared image period extension algorithm based on StarGAN.html" target="_blank"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
+<a href="../huahua/Infrared image period extension algorithm based on StarGAN.html" target="_blank"><i class="fas fa-fw fa-globe"></i>Projectpage</a> / 
 </td>
 </tr>
 </table>
@@ -105,7 +105,8 @@ This project and the work mentioned in the second published paper above are part
 <b>Yanling Hua</b>, Zhengrong Zuo<br>
 <i>MIPPR 2019: Pattern Recognition and Computer Vision. SPIE, 2020</i><br>
 <a href="../huahua/Dehazing algorithm based on image fogging degree.html" target="_blank"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
-<a href="../files/MIPPR_Dehazing Network based on Haze Density.pdf" target="_blank" ><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
+<a href="../files/MIPPR_Dehazing Network based on Haze Density.pdf" target="_blank" ><i class="fas fa-fw fa-file-pdf"></i>Paper_v1</a> /
+<a href="../files/dehazing_v2.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf"></i>Paper_v2</a> /
 </td>
 </tr>
 </table>

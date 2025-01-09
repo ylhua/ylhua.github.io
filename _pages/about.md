@@ -87,6 +87,7 @@ Yangyang Ma, <b>Yanling Hua</b>, Zhengrong Zuo<br>
 <b>Infrared image period extension algorithm based on StarGAN</b><br>
 This project and the work mentioned in the second published paper above are parts of my master's thesis aiming for infra image generation. The published papar generate infra images based on rgb images, but this project achieves infra image generation between images from different peroid in a day.<br>
 <a href="../huahua/Infrared image period extension algorithm based on StarGAN.html" target="_blank"><i class="fas fa-fw fa-globe"></i>Projectpage</a> / 
+<a href="../files/Infrared_image_period_extension.pdf" target="_blank" ><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
 </td>
 </tr>
 </table>

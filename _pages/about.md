@@ -16,6 +16,11 @@ specializing in developing controllable and efficient generative AI methods for 
 motion generation. Additionally, I am passionate about exploring multimodal interaction
 design in XR, aiming to simplify and enhance user interactions, making them more intuitive and seamless.
 
+## News!
+
+[2025/01/20] I am starting as a Master's thesis worker at [Sony Nordic](https://www.linkedin.com/company/sony-europe/posts/?feedView=all).
+
+
 ## Background
 
 <div>

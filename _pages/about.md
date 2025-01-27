@@ -10,11 +10,13 @@ redirect_from:
 
 Hi, this is Yanling Hua. I am a second-year (2023~2025) Master's student in the Faculty of Engineering at Lund University. My major is virtual reality and augmented reality (VR/AR).
 
-I am interested in **extended reality (XR) and generative AI**, focusing on the creation of accessible, enriched, 
-and personalized experiences. I am particularly drawn to AI-assisted content creation,
-specializing in developing controllable and efficient generative AI methods for 3D objects, scenes, and human
-motion generation. Additionally, I am passionate about exploring multimodal interaction
-design in XR, aiming to simplify and enhance user interactions, making them more intuitive and seamless.
+I am deeply interested in **extended reality (XR)** and **generative AI**, with a focus on creating accessible, enriched, and personalized experiences. I am particularly passionate about AI-assisted content creation, specializing in the development of controllable and efficient generative AI methods for 3D objects, scenes, and human motion generation. In addition, I am eager to explore multimodal interaction design within XR, aiming to simplify and enhance user interactions to make them more intuitive and seamless.
+
+### Key areas of interest include:
+1. **Task-Oriented Virtual Reality**: Developing tailored training systems for specific tasks.
+2. **Ubiquitous Mixed Reality**: Achieving seamless integration of real and virtual worlds, alongside embodied AI agents.
+3. **Interaction Strategies**: Designing intuitive and accessible interaction strategies for a diverse range of users.
+
 
 ## News!
 

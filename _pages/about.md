@@ -32,7 +32,7 @@ I am deeply interested in **extended reality (XR)** and **generative AI**, with 
 <img width="80" src="../images/lund.png"/> 
 </td>
 <td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
-Master Student. Aug. 2023 - Jun. 2025 (Expected)<br>
+Master. Aug. 2023 - Jun. 2025 (Expected)<br>
 <a href="https://www.lth.se/english/">Faculty of Engineering</a> , Major in VR/AR<br>
 <a href="https://www.lunduniversity.lu.se/">Lund University</a><br>
 </td>
@@ -43,7 +43,7 @@ Master Student. Aug. 2023 - Jun. 2025 (Expected)<br>
 <img width="80" src="../images/hust.png"/> 
 </td>
 <td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
-Master Student. Aug. 2018 - Jun. 2020 <br>
+Master. Aug. 2018 - Jun. 2020 <br>
 <a href="http://english.aia.hust.edu.cn/">Department of Artificial Intelligence and Automation</a>, Major in Computer Vision<br>
 <a href="https://english.hust.edu.cn/">Huazhong University of Science and Technology</a><br>
 </td>
@@ -55,7 +55,7 @@ Master Student. Aug. 2018 - Jun. 2020 <br>
 <img width="80" src="../images/hfut.jpeg"/> 
 </td>
 <td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
-Bachelor Student. Aug. 2014 - Jun. 2018 <br>
+Bachelor. Aug. 2014 - Jun. 2018 <br>
 <a href="http://ea.hfut.edu.cn/dqzdhen/" target="_blank">Department of Automation</a>, Major in Automation<br>
 <a href="https://en.hfut.edu.cn/" target="_blank">Hefei University of Technology</a><br>
 </td>

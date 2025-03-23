@@ -186,7 +186,7 @@ This project is about research of constructing 3D models of game assets. <br>
 <b>VR museum</b><br>
 This project combines VR techniques with Interaction Design principles to come up with a Virtual Reality Museum, which could provide a
 unique, interactive and educational experience for different kinds of visitors.<br>
-<a href="../files/MAMN25Group2.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf"></i>Paper</a>  /
+<a href="../files/MAMN25Group2.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf"></i>Report</a>  /
 <a href="https://spaces.wondavr.com/embed/?course=bd1a9220-902c-11ee-a2be-875e526a1e99&presenter=true" target="_blank"><i class="fas fa-fw fa-globe"></i>Demo</a> /
 </td>
 </tr>

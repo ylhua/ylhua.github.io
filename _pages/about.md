@@ -176,6 +176,22 @@ This project is about research of constructing 3D models of game assets. <br>
 </div>
 
 ## Projects
+<div>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
+<tr>
+<td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
+<img width="350" src="../images/vr_museum.png"/>
+</td>
+<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
+<b>VR museum</b><br>
+This project is about a VR program to help people get more information and know how to act in a fire emergency. <br>
+<a href="https://docs.google.com/presentation/d/1bM-EGJqBSkee5mxCemCGwa58hlPwJjeJ/edit#slide=id.p10" target="_blank"><i class="fas fa-fw fa-globe"></i>Presentation and Demo</a> /
+</td>
+</tr>
+</table>
+</div>
+
+---
 
 <div>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
@@ -185,8 +201,10 @@ This project is about research of constructing 3D models of game assets. <br>
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
 <b>Excape the fire</b><br>
-This project is about a VR program to help people get more information and know how to act in a fire emergency. <br>
-<a href="https://docs.google.com/presentation/d/1bM-EGJqBSkee5mxCemCGwa58hlPwJjeJ/edit#slide=id.p10" target="_blank"><i class="fas fa-fw fa-globe"></i>Presentation and Demo</a> /
+This project combines VR techniques with Interaction Design principles to come up with a Virtual Reality Museum, which could provide a
+unique, interactive and educational experience for different kinds of visitors.<br>
+<a href="../files/MAMN25Group2.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf"></i>Paper</a>  /
+<a href="https://spaces.wondavr.com/embed/?course=bd1a9220-902c-11ee-a2be-875e526a1e99&presenter=true" target="_blank"><i class="fas fa-fw fa-globe"></i>Demo</a> /
 </td>
 </tr>
 </table>

@@ -13,9 +13,8 @@ Hi, this is Yanling Hua. I am a second-year (2023~2025) Master's student in the 
 I am deeply interested in **extended reality (XR)** and **generative AI**, with a focus on creating accessible, enriched, and personalized experiences. I am particularly passionate about AI-assisted content creation, specializing in the development of controllable and efficient generative AI methods for 3D objects, scenes, and human motion generation. In addition, I am eager to explore multimodal interaction design within XR, aiming to simplify and enhance user interactions to make them more intuitive and seamless.
 
 ### Key areas of interest include:
-1. **Task-Oriented Virtual Reality**: Developing tailored training systems for specific tasks.
-2. **Ubiquitous Mixed Reality**: Achieving seamless integration of real and virtual worlds, alongside embodied AI agents.
-3. **Interaction Strategies**: Designing intuitive and accessible interaction strategies for a diverse range of users.
+1. **Task-Oriented Virtual Reality and Augmented Reality**: Develop task-specific systems that not only create a fully immersive and tailored environment but also enhance task completion efficiency by reducing cognitive load and increasing engagement.
+2. **Ubiquitous Mixed Reality**: Adapt artificial generative intelligence models to MR environments and develop fully gestured avatars with semantically meaningful motion and facial expressions.
 
 
 ## News!
@@ -236,7 +235,12 @@ score.. <br>
 <!-- ## Personal
 I spend my spare time in reading, watching movies and traveling. Recently I am reading some books related to -->
 ## Personal
-Keep on exploring! Keep on trying!
+I am committed to learning endlessly, living authentically, and loving deeply. I believe the meaning of life is to experience. This is my favourite quote:
+
+> *"Sing like no one is listening.  
+> Love like you’ve never been hurt.  
+> Dance like nobody’s watching,  
+> And live like it’s heaven on earth."* 
 
 
 ## Contact

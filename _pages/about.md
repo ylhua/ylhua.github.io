@@ -92,7 +92,7 @@ Yangyang Ma, <b>Yanling Hua</b>, Zhengrong Zuo<br>
 <td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
 <b>Infrared image period extension algorithm based on StarGAN</b><br>
 This project and the work mentioned in the second published paper above are parts of my master's thesis aiming for infra image generation. The published papar generate infra images based on rgb images, but this project achieves infra image generation between images from different peroid in a day.<br>
-<a href="../huahua/Infrared image period extension algorithm based on StarGAN.html" target="_blank"><i class="fas fa-fw fa-globe"></i>Projectpage</a> / 
+<a href="../huahua/Infrared image period extension algorithm based on StarGAN.html" target="_blank"><i class="fas fa-fw fa-globe"></i>Project Page</a> / 
 <a href="../files/Infrared_image_period_extension.pdf" target="_blank" ><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
 </td>
 </tr>
@@ -111,7 +111,7 @@ This project and the work mentioned in the second published paper above are part
 <b>Dehazing algorithm based on image fogging degree</b><br>
 <b>Yanling Hua</b>, Zhengrong Zuo<br>
 <i>MIPPR 2019: Pattern Recognition and Computer Vision. SPIE, 2020</i><br>
-<a href="../huahua/Dehazing algorithm based on image fogging degree.html" target="_blank"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
+<a href="../huahua/Dehazing algorithm based on image fogging degree.html" target="_blank"><i class="fas fa-fw fa-globe"></i>Project Page</a> /
 <a href="../files/MIPPR_Dehazing Network based on Haze Density.pdf" target="_blank" ><i class="fas fa-fw fa-file-pdf"></i>Paper_v1</a> /
 <a href="../files/dehazing_v2.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf"></i>Paper_v2</a> /
 </td>
@@ -132,7 +132,7 @@ This project and the work mentioned in the second published paper above are part
 <td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
 <b>Talking pose generation</b><br>
 This project is about talking-pose generation and I do this project independently. I tried two ways, motion retrival and end2end motion generation. <br>
-<a href="../huahua/End2end motion generation.html" target="_blank"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
+<a href="../huahua/End2end motion generation.html" target="_blank"><i class="fas fa-fw fa-globe"></i>Project Page</a> /
 </td>
 </tr>
 </table>
@@ -148,7 +148,7 @@ This project is about talking-pose generation and I do this project independentl
 <td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
 <b>Semantic Nerf in unbounded scene for autonomous driving</b><br>
 This project is for the semantic auto-labeling task in the autonomous driving scene and I do this project independently. I use nerf, which has show significant performance in novel view synthesis, to achieve muti-view generation and get the semantic label. <br>
-<a href="../huahua/Semantic Nerf in unbounded scene for autonomous driving scene.html" target="_blank"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
+<a href="../huahua/Semantic Nerf in unbounded scene for autonomous driving scene.html" target="_blank"><i class="fas fa-fw fa-globe"></i>Project Page</a> /
 </td>
 </tr>
 </table>
@@ -168,7 +168,7 @@ This project is for the semantic auto-labeling task in the autonomous driving sc
 <td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
 <b>3D genration for Game Asset</b><br>
 This project is about research of constructing 3D models of game assets. <br>
-<a href="../huahua/3D generation.html" target="_blank"><i class="fas fa-fw fa-globe"></i>Projectpage</a> /
+<a href="../huahua/3D generation.html" target="_blank"><i class="fas fa-fw fa-globe"></i>Project Page</a> /
 </td>
 </tr>
 </table>
@@ -220,10 +220,25 @@ This project is about a VR program to help people get more information and know 
 <td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
 <b>HeyDancing</b><br>
 This project is about a VR/AR application to help users enhance their dance skills in an interactive environment. The system plans to consist of four core modules: motion capture using a fixed multi-camera setup, motion remapping to project captured movements onto 3D
-characters, real-time motion correction, and a motion evaluation model that generates an overall performance
-score.. <br>
+characters, real-time motion correction, and a motion evaluation model that generates an overall performance score. <br>
 <a href="../files/paperar.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
 <a href="https://www.youtube.com/watch?v=pMr3i27rvCM" target="_blank"><i class="fas fa-fw fa-globe"></i>Demo</a> /
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<div>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
+<tr>
+
+<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
+<b>XR in Dance performance</b><br>
+This is an ongoing research project that reviews papers related to XR and dance performance. It is still in progress, with plans to incorporate additional content.<br>
+<a href="../files/XR_in_ART.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
+<a href="https://github.com/ylhua/XR_plus_ART" target="_blank"><i class="fas fa-fw fa-globe"></i>Project Page</a> /
 </td>
 </tr>
 </table>

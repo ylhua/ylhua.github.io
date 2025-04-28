@@ -175,6 +175,26 @@ This project is about research of constructing 3D models of game assets. <br>
 </div>
 
 ## Projects
+
+<div>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
+<tr>
+<td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
+<img width="350" src="../images/dancing.png"/>
+</td>
+<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
+<b>HeyDancing</b><br>
+This project is about a VR/AR application to help users enhance their dance skills in an interactive environment. The system plans to consist of four core modules: motion capture using a fixed multi-camera setup, motion remapping to project captured movements onto 3D
+characters, real-time motion correction, and a motion evaluation model that generates an overall performance score. <br>
+<a href="../files/paperar.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
+<a href="https://www.youtube.com/watch?v=pMr3i27rvCM" target="_blank"><i class="fas fa-fw fa-globe"></i>Demo</a> /
+</td>
+</tr>
+</table>
+</div>
+
+---
+
 <div>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
 <tr>
@@ -204,25 +224,6 @@ unique, interactive and educational experience for different kinds of visitors.<
 <b>Excape the fire</b><br>
 This project is about a VR program to help people get more information and know how to act in a fire emergency. <br>
 <a href="https://docs.google.com/presentation/d/1bM-EGJqBSkee5mxCemCGwa58hlPwJjeJ/edit#slide=id.p10" target="_blank"><i class="fas fa-fw fa-globe"></i>Presentation and Demo</a> /
-</td>
-</tr>
-</table>
-</div>
-
----
-
-<div>
-<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
-<tr>
-<td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
-<img width="350" src="../images/dancing.png"/>
-</td>
-<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
-<b>HeyDancing</b><br>
-This project is about a VR/AR application to help users enhance their dance skills in an interactive environment. The system plans to consist of four core modules: motion capture using a fixed multi-camera setup, motion remapping to project captured movements onto 3D
-characters, real-time motion correction, and a motion evaluation model that generates an overall performance score. <br>
-<a href="../files/paperar.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
-<a href="https://www.youtube.com/watch?v=pMr3i27rvCM" target="_blank"><i class="fas fa-fw fa-globe"></i>Demo</a> /
 </td>
 </tr>
 </table>

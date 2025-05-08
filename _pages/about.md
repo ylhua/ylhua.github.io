@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, this is Yanling Hua. I am a second-year (2023~2025) Master's student in the Faculty of Engineering at Lund University. My major is virtual reality and augmented reality (VR/AR).
+Hi, this is Yanling Hua, a second-year Master's student at Lund University, specializing in Virtual Reality and Augmented Reality (VR/AR).
 
 I’m passionate about **Extended Reality (XR)** and **Generative AI**, with a focus on designing accessible, personalized, and immersive experiences.
 

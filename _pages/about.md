@@ -184,10 +184,40 @@ This project is about research of constructing 3D models of game assets. <br>
 </td>
 <td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
 <b>HeyDancing</b><br>
-This project is about a VR/AR application to help users enhance their dance skills in an interactive environment. The system plans to consist of four core modules: motion capture using a fixed multi-camera setup, motion remapping to project captured movements onto 3D
-characters, real-time motion correction, and a motion evaluation model that generates an overall performance score. <br>
+This project focuses on a VR/AR application designed to help users improve their dance skills in an interactive environment. The system supports four core functions: motion capture using a fixed multi-camera setup, motion remapping to project movements onto 3D characters, real-time motion correction, and customizable learning. <br>
 <a href="../files/paperar.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
 <a href="https://www.youtube.com/watch?v=pMr3i27rvCM" target="_blank"><i class="fas fa-fw fa-globe"></i>Demo</a> /
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<div>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
+<tr>
+
+<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
+<b>XR an AI</b><br>
+This ongoing research project surveys recent XR and AI papers and is currently in progress.<br>
+<a href="https://github.com/ylhua/ExtendedReality_AI" target="_blank"><i class="fas fa-fw fa-globe"></i>Project Page</a> /
+</td>
+</tr>
+</table>
+</div>
+
+---
+
+<div>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
+<tr>
+
+<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
+<b>XR in Dance performance</b><br>
+This is a brief individual research project that reviews papers on XR in dance performance.<br>
+<a href="../files/XR_in_ART.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
+<a href="https://github.com/ylhua/XR_plus_ART" target="_blank"><i class="fas fa-fw fa-globe"></i>Project Page</a> /
 </td>
 </tr>
 </table>
@@ -229,36 +259,6 @@ This project is about a VR program to help people get more information and know 
 </table>
 </div>
 
----
-
-<div>
-<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
-<tr>
-
-<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
-<b>XR in Dance performance</b><br>
-This is an individual research project that reviews papers related to XR and dance performance.<br>
-<a href="../files/XR_in_ART.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
-<a href="https://github.com/ylhua/XR_plus_ART" target="_blank"><i class="fas fa-fw fa-globe"></i>Project Page</a> /
-</td>
-</tr>
-</table>
-</div>
-
----
-
-<div>
-<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
-<tr>
-
-<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
-<b>XR an AI</b><br>
-This is an ongoing research project that reviews papers related to XR and AI. It is still in progress.<br>
-<a href="https://github.com/ylhua/ExtendedReality_AI" target="_blank"><i class="fas fa-fw fa-globe"></i>Project Page</a> /
-</td>
-</tr>
-</table>
-</div>
 
 
 <!-- ## Personal

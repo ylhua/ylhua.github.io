@@ -237,7 +237,7 @@ This project is about a VR program to help people get more information and know 
 
 <td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
 <b>XR in Dance performance</b><br>
-This is an ongoing research project that reviews papers related to XR and dance performance. It is still in progress, with plans to incorporate additional content.<br>
+This is an individual research project that reviews papers related to XR and dance performance.<br>
 <a href="../files/XR_in_ART.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
 <a href="https://github.com/ylhua/XR_plus_ART" target="_blank"><i class="fas fa-fw fa-globe"></i>Project Page</a> /
 </td>
@@ -246,6 +246,19 @@ This is an ongoing research project that reviews papers related to XR and dance 
 </div>
 
 ---
+
+<div>
+<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
+<tr>
+
+<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
+<b>XR an AI</b><br>
+This is an ongoing research project that reviews papers related to XR and AI. It is still in progress.<br>
+<a href="https://github.com/ylhua/ExtendedReality_AI" target="_blank"><i class="fas fa-fw fa-globe"></i>Project Page</a> /
+</td>
+</tr>
+</table>
+</div>
 
 
 <!-- ## Personal

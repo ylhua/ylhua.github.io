@@ -199,7 +199,7 @@ This project focuses on a VR/AR application designed to help users improve their
 <tr>
 
 <td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
-<b>XR an AI</b><br>
+<b>XR and AI</b><br>
 This ongoing research project surveys recent XR and AI papers and is currently in progress.<br>
 <a href="https://github.com/ylhua/ExtendedReality_AI" target="_blank"><i class="fas fa-fw fa-globe"></i>Project Page</a> /
 </td>

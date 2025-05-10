@@ -19,12 +19,6 @@ main:
 
   - title: "Projects"
     url: "https://ylhua.github.io/#projects"
-
-  - title: "Personal"
-    url: "https://ylhua.github.io/#personal"
-
-  - title: "Contact"
-    url: "https://ylhua.github.io/#contact"
   
   - title: "Blog Posts"
     url: /year-archive/
@@ -34,6 +28,3 @@ main:
     
   # - title: "CV"
   #   url: /cv-json/
-    
-  - title: "Guide"
-    url: /markdown/

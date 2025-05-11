@@ -4,9 +4,15 @@ excerpt: "Dance like you're in the studio—right from home, with pro instructor
 collection: portfolio
 ---
 
-<a href="https://www.youtube.com/watch?v=pMr3i27rvCM" target="_blank">
-  <img src="https://img.youtube.com/vi/pMr3i27rvCM/maxresdefault.jpg" alt="Watch the demo on YouTube" width="560"/>
-</a>
+<p align="center">
+  <iframe width="560" height="315" 
+          src="https://www.youtube.com/embed/pMr3i27rvCM" 
+          title="YouTube video player" frameborder="0" 
+          allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" 
+          allowfullscreen>
+  </iframe>
+</p>
+
 
 
 ## Dance Anytime, Anywhere – Immersive Learning with VR/AR, HeyDancing!

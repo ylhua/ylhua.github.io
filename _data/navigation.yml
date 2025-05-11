@@ -8,23 +8,20 @@
 #      Markdown formatted page while the second is generated using JSON.
 
 main:
-  - title: "Bio"
+  - title: "About Me"
     url: "https://ylhua.github.io/#background"
 
   - title: "Research Experience"
     url: /publications/
 
-  - title: "Working Experience"
-    url: "https://ylhua.github.io/#working-experience"
+  - title: "Professional Experience"
+    url: "https://ylhua.github.io/#professional-experience"
 
   - title: "Portfolio"
     url: /portfolio/
   
   - title: "Blog Posts"
     url: /year-archive/
-    
-  - title: "CV"
-    url: /cv/
     
   # - title: "CV"
   #   url: /cv-json/

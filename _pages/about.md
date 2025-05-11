@@ -12,14 +12,14 @@ Hi, this is Yanling Hua, a second-year Master's student at Lund University, spec
 
 I’m passionate about **Extended Reality (XR)** and **Generative AI**, with a focus on designing accessible, personalized, and immersive experiences.
 
-### Key areas of interest:
-1. **Task-Oriented VR/AR**: Building immersive, task-specific systems that boost efficiency by reducing cognitive load and enhancing user engagement.  
-2. **Ubiquitous Mixed Reality**: Adapting generative AI models to MR environments to enrich and simplify everyday life.
-
+## News!
 
 ## News!
 
-[2025/01/20] I am starting as a Master's thesis worker at [Sony Nordic](https://www.linkedin.com/company/sony-europe/posts/?feedView=all).
+**[2025/01/20]** Started as a **Master’s thesis worker** at [Sony Nordic](https://www.linkedin.com/company/sony-europe/posts/?feedView=all).  
+**[2024/01/20]** Began an **internship** at [Kunlun Wanwei](https://www.kunlun.com/en/), focusing on **3D human motion generation**.  
+**[2023/08/15]** Moved to **Lund, Sweden** to begin my **Master’s studies** at [Lund University](https://www.lunduniversity.lu.se/).  
+**[2023/04/01]** Admitted to the **VR/AR program** at [Lund University](https://www.lunduniversity.lu.se/) and awarded the **Lund University Global Scholarship**.
 
 
 ## Background
@@ -62,66 +62,7 @@ Bachelor. Aug. 2014 - Jun. 2018 <br>
 </table>    
 </div>
 
-## Research
-
-<div>
-<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
-<tr>
-<td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
-<img width="350" src="../images/rgb2infr.png"/>
-</td>
-<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
-<b>Infrared image generation by pix2pix based on multi-receptive field feature fusion</b><br>
-Yangyang Ma, <b>Yanling Hua</b>, Zhengrong Zuo<br>
-<i>International Conference on Control, Automation and Information Sciences (<b>ICCAIS</b>), 2021</i><br>
-<a href="../files/ICCAIS_Infrared Image Generation.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
-<a href="https://github.com/huayanling/Pix2pix-MRFFF" target="_blank"><i class="fab fa-fw fa-github fa-github"></i>Code</a>
-</td>
-</tr>
-</table>
-</div>
-
----
-
-<div>
-<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
-<tr>
-<td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
-<img width="350" src="../images/infra_peroid_res.png"/>
-</td>
-<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
-<b>Infrared image period extension algorithm based on StarGAN</b><br>
-This project and the work mentioned in the second published paper above are parts of my master's thesis aiming for infra image generation. The published papar generate infra images based on rgb images, but this project achieves infra image generation between images from different peroid in a day.<br>
-<a href="../huahua/Infrared image period extension algorithm based on StarGAN.html" target="_blank"><i class="fas fa-fw fa-globe"></i>Project Page</a> / 
-<a href="../files/Infrared_image_period_extension.pdf" target="_blank" ><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
-</td>
-</tr>
-</table>
-</div>
-
----
-
-<div>
-<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
-<tr>
-<td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
-<img width="350" src="../images/dehaze_net.png"/>
-</td>
-<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
-<b>Dehazing algorithm based on image fogging degree</b><br>
-<b>Yanling Hua</b>, Zhengrong Zuo<br>
-<i>MIPPR 2019: Pattern Recognition and Computer Vision. SPIE, 2020</i><br>
-<a href="../huahua/Dehazing algorithm based on image fogging degree.html" target="_blank"><i class="fas fa-fw fa-globe"></i>Project Page</a> /
-<a href="../files/MIPPR_Dehazing Network based on Haze Density.pdf" target="_blank" ><i class="fas fa-fw fa-file-pdf"></i>Paper_v1</a> /
-<a href="../files/dehazing_v2.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf"></i>Paper_v2</a> /
-</td>
-</tr>
-</table>
-</div>
-
-
-
-## Working Experience
+## Professional Experience
 
 <div>
 <table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
@@ -173,92 +114,6 @@ This project is about research of constructing 3D models of game assets. <br>
 </tr>
 </table>
 </div>
-
-## Projects
-
-<div>
-<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
-<tr>
-<td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
-<img width="350" src="../images/dancing.png"/>
-</td>
-<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
-<b>HeyDancing</b><br>
-This project focuses on a VR/AR application designed to help users improve their dance skills in an interactive environment. The system supports four core functions: motion capture using a fixed multi-camera setup, motion remapping to project movements onto 3D characters, real-time motion correction, and customizable learning. <br>
-<a href="../files/paperar.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
-<a href="https://www.youtube.com/watch?v=pMr3i27rvCM" target="_blank"><i class="fas fa-fw fa-globe"></i>Demo</a> /
-</td>
-</tr>
-</table>
-</div>
-
----
-
-<div>
-<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
-<tr>
-
-<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
-<b>XR and AI</b><br>
-This ongoing research project surveys recent XR and AI papers and is currently in progress.<br>
-<a href="https://github.com/ylhua/ExtendedReality_AI" target="_blank"><i class="fas fa-fw fa-globe"></i>Project Page</a> /
-</td>
-</tr>
-</table>
-</div>
-
----
-
-<div>
-<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
-<tr>
-
-<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
-<b>XR in Dance performance</b><br>
-This is a brief individual research project that reviews papers on XR in dance performance.<br>
-<a href="../files/XR_in_ART.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf"></i>Paper</a> /
-<a href="https://github.com/ylhua/XR_plus_ART" target="_blank"><i class="fas fa-fw fa-globe"></i>Project Page</a> /
-</td>
-</tr>
-</table>
-</div>
-
----
-
-<div>
-<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
-<tr>
-<td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
-<img width="350" src="../images/vr_museum.png"/>
-</td>
-<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
-<b>VR museum</b><br>
-This project combines VR techniques with Interaction Design principles to come up with a Virtual Reality Museum, which could provide a
-unique, interactive and educational experience for different kinds of visitors.<br>
-<a href="../files/MAMN25Group2.pdf" target="_blank"><i class="fas fa-fw fa-file-pdf"></i>Report</a>  /
-<a href="https://spaces.wondavr.com/embed/?course=bd1a9220-902c-11ee-a2be-875e526a1e99&presenter=true" target="_blank"><i class="fas fa-fw fa-globe"></i>Demo</a> /
-</td>
-</tr>
-</table>
-</div>
-
----
-
-<div>
-<table style="width:100%;border:none;border-spacing:0px;border-collapse:separate;margin-right:auto;margin-left:auto;font-size: large">
-<tr>
-<td style="padding:20px;width:30%;vertical-align:middle;border:none" align="center">
-<img width="350" src="../images/fire.png"/>
-</td>
-<td style="padding:20px;width:70%;vertical-align:middle;border: none" align="left">
-<b>Excape the fire</b><br>
-This project is about a VR program to help people get more information and know how to act in a fire emergency. <br>
-<a href="https://docs.google.com/presentation/d/1bM-EGJqBSkee5mxCemCGwa58hlPwJjeJ/edit#slide=id.p10" target="_blank"><i class="fas fa-fw fa-globe"></i>Presentation and Demo</a> /
-</td>
-</tr>
-</table>
-</div>
-
 
 
 <!-- ## Personal

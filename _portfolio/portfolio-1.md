@@ -1,17 +1,13 @@
 ---
-title: "Portfolio item number 1"
+title: "HeyDancing: An AR/VR-Based Dancing Coach"
 excerpt: "Dance like you're in the studio—right from home, with pro instructors leading the way!<br/><img width='390' src='/images/dancing.png'>"
 collection: portfolio
 ---
 
-## 🎥 Demo Video
-
 <a href="https://www.youtube.com/watch?v=pMr3i27rvCM" target="_blank">
-  <img src="https://img.youtube.com/vi/pMr3i27rvCM/0.jpg" alt="Watch the demo on YouTube" width="560"/>
+  <img src="https://img.youtube.com/vi/pMr3i27rvCM/maxresdefault.jpg" alt="Watch the demo on YouTube" width="560"/>
 </a>
 
-
----
 
 ## Dance Anytime, Anywhere – Immersive Learning with VR/AR, HeyDancing!
 
@@ -27,7 +23,7 @@ Imagine turning your living room into a high-tech dance studio! This project bri
 **🛠️ System Design**  
 
 <p align="center">
-  <img src="../images/sysdance.png" alt="System Design" width="390">
+  <img src="../../images/sysdance.png" alt="System Design" width="390">
 </p>
 
 - **Real-Time Motion Capture:** Markerless 3D pose estimation from video input  

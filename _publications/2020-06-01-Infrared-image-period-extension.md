@@ -5,7 +5,7 @@ category: masterthesis
 permalink: /publication/2020-06-01-Infrared-image-period-extension
 excerpt: 'This project, along with the work mentioned in the first published paper above, is part of my thesis on infrared image generation. The published paper generates infrared images from RGB images, but this project achieves infrared image generation for images taken at different times of the day.'
 date: 2020-06-01
-venue: 'GitHub Journal of Bugs'
+venue: 'Huazhong University of Science and Technology'
 paperurl: '../files/ICCAIS_Infrared Image Generation.pdf'
 ---
 

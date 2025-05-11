@@ -3,11 +3,10 @@ title: "Dehazing algorithm based on image fogging degree"
 collection: publications
 category: conferences
 permalink: /publication/2020-02-14-Dehazing-algorithm
-excerpt: 'This paper is about images dehazing network based on haze density. Based on this work, an advanced version was proposed in my master\'s thesis'
+excerpt: 'This paper is about images dehazing network based on haze density. Based on this work, an advanced version was proposed in my thesis'
 date: 2020-02-14
 venue: 'MIPPR 2019, SPIE: Pattern Recognition and Computer Vision. '
 paperurl: '../files/MIPPR_Dehazing Network based on Haze Density.pdf'
-citation: 'Your Name, You. (2010). &quot;Paper Title Number 2.&quot; <i>Journal 1</i>. 1(2).'
 ---
 
 [Aiming at performance degradation of generating infrared images caused by haze on visible images, I propose a dehazing algorithm based on image fogging degree. Considering that the transmission map reflects the fogging degree of hazy images, I built a transmission map prediction module parallel to the dehazing module, called Dehazing Network based on Haze Density (DNBHD). According to the pre-defined threshold, DNBHD can recover different hazy image regions using different output branches.]

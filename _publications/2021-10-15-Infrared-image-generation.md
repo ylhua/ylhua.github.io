@@ -1,7 +1,7 @@
 ---
 title: "Infrared image generation by pix2pix based on multi-receptive field feature fusion"
 collection: publications
-category: masterthesis
+category: conferences
 permalink: /publication/2021-10-15-Infrared-image-generation
 excerpt: 'This paper focuses on generating infrared images from visible-light images using a supervised GAN approach.'
 date: 2021-10-15

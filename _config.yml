@@ -83,7 +83,7 @@ publication_category:
   conferences:
     title: 'Conference Papers'
   masterthesis:
-    title: 'Master\'s thesis'
+    title: 'Thesis'
 
 # Site Settings
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"

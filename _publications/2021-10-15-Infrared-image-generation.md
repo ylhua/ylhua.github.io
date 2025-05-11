@@ -4,7 +4,7 @@ collection: publications
 category: conferences
 permalink: /publication/2021-10-15-Infrared-image-generation
 excerpt: 'This paper is about the number 3. The number 4 is left for future work.'
-date: 2021
+date: 2021-10-15
 venue: 'International Conference on Control, Automation and Information Sciences, ICCAIS'
 paperurl: '../files/ICCAIS_Infrared Image Generation.pdf'
 ---

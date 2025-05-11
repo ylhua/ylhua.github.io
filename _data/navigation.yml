@@ -15,7 +15,7 @@ main:
     url: "https://ylhua.github.io/#working-experience"
 
   - title: "Research Experience"
-    url: "https://ylhua.github.io/#research"
+    url: /publications/
 
   - title: "Portfolio"
     url: /portfolio/

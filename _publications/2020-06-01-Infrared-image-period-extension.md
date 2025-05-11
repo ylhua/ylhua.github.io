@@ -6,7 +6,7 @@ permalink: /publication/2020-06-01-Infrared-image-period-extension
 excerpt: 'This project, along with the work mentioned in the first published paper above, is part of my thesis on infrared image generation. The published paper generates infrared images from RGB images, but this project achieves infrared image generation for images taken at different times of the day.'
 date: 2020-06-01
 venue: 'Huazhong University of Science and Technology'
-paperurl: '../files/ICCAIS_Infrared Image Generation.pdf'
+paperurl: '../files/Infrared_image_period_extension.pdf'
 ---
 
 [Aiming at the lack of paired multi-period infrared image datasets, I firstly completed an infrared image period extension algorithm based on StarGAN network. The training process is as follows.](https://ylhua.github.io/#research)

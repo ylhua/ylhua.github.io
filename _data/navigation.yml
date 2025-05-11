@@ -11,11 +11,11 @@ main:
   - title: "Bio"
     url: "https://ylhua.github.io/#background"
 
-  - title: "Working Experience"
-    url: "https://ylhua.github.io/#working-experience"
-
   - title: "Research Experience"
     url: /publications/
+
+  - title: "Working Experience"
+    url: "https://ylhua.github.io/#working-experience"
 
   - title: "Portfolio"
     url: /portfolio/

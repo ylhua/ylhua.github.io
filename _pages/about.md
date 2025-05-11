@@ -51,7 +51,7 @@ Master. Aug. 2018 - Jun. 2020 <br>
 
 <tr>
 <td style="padding:20px;width:25%;vertical-align:middle;border:none" align="center">
-<img width="80" src="../images/hfut.jpeg"/> 
+<img width="80" src="../images/hfut.png"/> 
 </td>
 <td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
 Bachelor. Aug. 2014 - Jun. 2018 <br>

@@ -9,7 +9,7 @@ venue: 'Huazhong University of Science and Technology'
 paperurl: '../files/Infrared_image_period_extension.pdf'
 ---
 
-[Aiming at the lack of paired multi-period infrared image datasets, I firstly completed an infrared image period extension algorithm based on StarGAN network. The training process is as follows.](https://ylhua.github.io/#research)
+Aiming at the lack of paired multi-period infrared image datasets, I firstly completed an infrared image period extension algorithm based on StarGAN network. The training process is as follows.
 
 ![Click to view the full image](../images/stargan.png)
 

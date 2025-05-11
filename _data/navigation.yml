@@ -9,7 +9,7 @@
 
 main:
   - title: "About Me"
-    url: "https://ylhua.github.io/#background"
+    url: "https://ylhua.github.io"
 
   - title: "Research Experience"
     url: /publications/

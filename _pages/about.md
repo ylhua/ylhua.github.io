@@ -14,8 +14,6 @@ I’m passionate about **Extended Reality (XR)** and **Generative AI**, with a f
 
 ## News!
 
-## News!
-
 **[2025/01/20]** Started as a **Master’s thesis worker** at [Sony Nordic](https://www.linkedin.com/company/sony-europe/posts/?feedView=all).  
 **[2024/01/20]** Began an **internship** at [Kunlun Wanwei](https://www.kunlun.com/en/), focusing on **3D human motion generation**.  
 **[2023/08/15]** Moved to **Lund, Sweden** to begin my **Master’s studies** at [Lund University](https://www.lunduniversity.lu.se/).  

@@ -1,5 +1,5 @@
 ---
-title: "Infrared image period extension algorithm based on StarGAN"
+title: "Real time Mobile Camera Localization"
 collection: publications
 category: masterthesis
 permalink: /publication/2025-06-05-Real-time-Mobile-Camera-Localization

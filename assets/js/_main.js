@@ -16,6 +16,8 @@ $(document).ready(function () {
       $("html").attr("data-theme") ||
       browserPref;
 
+    use_theme = 'dark'
+
     if (use_theme === "dark") {
       $("html").attr("data-theme", "dark");
       $("#theme-icon").removeClass("fa-sun").addClass("fa-moon");

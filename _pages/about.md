@@ -31,7 +31,7 @@ I am passionate about cutting-edge research in **3D Reconstruction and Generat
 <img width="80" src="../images/lund.png"/> 
 </td>
 <td style="padding:20px;width:75%;vertical-align:middle;border: none" align="left">
-Master. Aug. 2023 - Jun. 2025 (Expected)<br>
+Master. Aug. 2023 - Jun. 2025<br>
 <a href="https://www.lth.se/english/">Faculty of Engineering</a> , Major in VR/AR<br>
 <a href="https://www.lunduniversity.lu.se/">Lund University</a><br>
 </td>

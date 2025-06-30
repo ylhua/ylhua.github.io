@@ -10,11 +10,12 @@ redirect_from:
 
 Hi, this is Yanling Hua, a second-year Master's student at Lund University, specializing in Virtual Reality and Augmented Reality (VR/AR).
 
-I’m driven by cutting-edge research in **Extended Reality (XR)** and **Generative AI**, with a focus on AI-assisted content creation. My expertise includes developing controllable and efficient generative methods for 3D object modeling, scene synthesis, human motion generation, and implementing XR prototypes. I’m also passionate about multimodal interaction design in XR, aiming to create immersive experiences that are more intuitive, responsive, and seamless for users.
+I am passionate about cutting-edge research in **3D Reconstruction and Generation**, as well as **Extended Reality (XR)**. My expertise spans generative models, including GANs and diffusion models, advanced 3D modeling techniques such as NeRF, 3D Gaussian Splatting, and parametric human modeling, along with XR application development.
 
 
 ## News!
 
+**[2025/06/15]** Graduated from Lund University. 
 **[2025/01/20]** Started as a **Master’s thesis worker** at [Sony Nordic](https://www.linkedin.com/company/sony-europe/posts/?feedView=all).  
 **[2024/01/20]** Began an **internship** at [Kunlun Wanwei](https://www.kunlun.com/en/), focusing on **3D human motion generation**.  
 **[2023/08/15]** Moved to **Lund, Sweden** to begin my **Master’s studies** at [Lund University](https://www.lunduniversity.lu.se/).  

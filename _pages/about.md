@@ -8,7 +8,7 @@ redirect_from:
   - /about.html
 ---
 
-Hi, this is Yanling Hua. I'm passionate about cutting-edge research in **3D Reconstruction and Generation**, as well as **Extended Reality (XR)**. My expertise spans generative models, including GANs and diffusion models, advanced 3D modeling techniques such as NeRF, 3D Gaussian Splatting, and parametric human modeling, along with XR application development.
+Hi, this is Yanling Hua. I'm passionate about cutting-edge research in **3D Reconstruction and Generation**, as well as **Extended Reality (XR)**. My expertise spans a broad range of topics, including generative models (GANs, diffusion models), 3D vision techniques (NeRF, 3D Gaussian Splatting, parametric human modeling, SLAM, and MVS), as well as XR application development. I’m open to diverse opportunities in these fields.
 
 
 ## News!

@@ -11,7 +11,7 @@ locale                   : "en-US"
 title                    : "Yanling's Homepage"
 title_separator          : "-"
 name                     : &name "Yanling"
-description              : &description "Yanling (化彦伶)'s Homepage"
+description              : &description "Yanling 's Homepage"
 url                      : https://ylhua.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "ylhua.github.io"
@@ -21,7 +21,7 @@ repository               : "ylhua.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  name             : "Yanling (化彦伶)"
+  name             : "Yanling (化 彦 伶)"
   avatar           : "me.png"
   pronouns         : # example: "she/her"  
   bio              : "Master's student at Lund University"
